@@ -16,16 +16,16 @@ deepseek横空出世, 让我焦虑的很。
 
 使用WINDOWS机器
 
-### 1、克隆本项目到本地
+#### 1、克隆本项目到本地
    ```bash
    git clone https://github.com/icepage/aujc_trainer.git
    ```
 
-### 2、按以下文档进行
+#### 2、按以下文档进行
 
 1、[安装Nvidia显卡驱动](https://mp.weixin.qq.com/s/0p8IMDZyCktrMujT6uNhgA)  如果你没有N卡请忽略, 使用CPU学习
 
-2、[深度学习环境安装](https://mp.weixin.qq.com/s/ry-IFm2-aoFQs7oecmsyyQ)
+2、[深度学习环境安装](https://mp.weixin.qq.com/s/03NNcoIATqocgkszp5-upg)
 
 3、[aujc_train正式训练及验证](https://mp.weixin.qq.com/s/XKN9y9151ggY7tnhAaIHTw)
 
@@ -35,4 +35,4 @@ deepseek横空出世, 让我焦虑的很。
 
 6、机器学习原理 (_希望有时间填坑_)
 
-# 创作不易，如果项目有帮助到你，大佬们点个星呗
+## 创作不易，如果项目有帮助到你，大佬们点个星呗
