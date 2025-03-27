@@ -336,7 +336,7 @@ def get_jd_pt_key(playwright: Playwright, char_args, mode: str) -> Union[str, No
     """
     获取jd的pt_key
     """
-    headless = True
+    headless = False
 
     args = '--no-sandbox', '--disable-setuid-sandbox'
 
