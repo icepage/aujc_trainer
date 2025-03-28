@@ -27,7 +27,7 @@ deepseek横空出世, 让我焦虑的很。
 
 2、[深度学习环境安装](https://mp.weixin.qq.com/s/03NNcoIATqocgkszp5-upg)
 
-3、[aujc_train正式训练及验证](https://mp.weixin.qq.com/s/XKN9y9151ggY7tnhAaIHTw)
+3、[aujc_train正式训练及验证](https://mp.weixin.qq.com/s/G4kfDNX2ntAk1H2NDWPw8g)
 
 4、加入AutoUpdateJdCookie使用 (_TODO_)
 
