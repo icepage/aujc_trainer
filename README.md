@@ -29,7 +29,7 @@ deepseek横空出世, 让我焦虑的很。
 
 3、[aujc_train正式训练及验证](https://mp.weixin.qq.com/s/G4kfDNX2ntAk1H2NDWPw8g)
 
-4、加入AutoUpdateJdCookie使用 (_TODO_)
+4、[新模型加入AutoUpdateJdCookie使用](https://mp.weixin.qq.com/s/2WGk2k6QcCgPaZl-DVIdxg)
 
 5、dddd_train原理(源码解读) (_TODO_)
 
